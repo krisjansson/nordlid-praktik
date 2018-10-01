@@ -110,7 +110,7 @@ p {
   flex-wrap: wrap; }
   .checkbox-and-text p {
     display: inline-block;
-    width: 90%;
+    width: 85%;
     padding: 25px 15px 0; }
 
 input[type=checkbox] + label {
